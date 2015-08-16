@@ -4,7 +4,7 @@ namespace ForVista ;
 
 require_once('app/PrimeFinder.php') ;
 
-class PrimeFinderTest extends PHPUnit_Framework_TestCase {
+class PrimeFinderTest extends \PHPUnit_Framework_TestCase {
 	
 	public $test ;
 	
