@@ -14,4 +14,4 @@ This is a collection of short lessions learnt and docs for the prime numbers pro
 - Computers aren't perfect Math machines and seem to break with numbers more than 8 bytes long: The remainder on Modulo division "wraps" around.
 --Corollary; If we were to try and find more than the first 1.84 x 10^19 prime numbers (8 bytes) we would either use CUDA or pass the task down to our children.
 
-- To complete every facet of this task to demostration standard would take much longer than the available time, thus only the core class PrimeFinder is going to be added to mainline.
+- To complete every facet of this task to demostration standard would take much longer than the available time, thus only the core class PrimeFinder is going to be added to mainline. (This satisfies the objective of demonstrating code)
