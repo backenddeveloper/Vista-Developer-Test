@@ -1,0 +1,5 @@
+This is a collection of short lessions learnt and docs for the prime numbers project.
+
+- Extensibility means a lot more code for simple programs.
+
+- Web IO is different from Terminal IO 
